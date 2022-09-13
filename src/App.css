@@ -29,6 +29,10 @@
   height: 50px;
 }
 
+.tooltip2_text {
+  /*display: inline-block;*/
+}
+
 .tooltip_text:hover:after {
   position: absolute;
   transform: translate(-50%);
